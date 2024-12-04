@@ -18,17 +18,6 @@ export const Header = (props) => {
     return () => clearInterval(interval);
   }, [images.length]);
 
-  // Handlers for navigation buttons
-  const prevSlide = () => {
-    setCurrentIndex((prevIndex) =>
-      prevIndex === 0 ? images.length - 1 : prevIndex - 1
-    );
-  };
-
-  const nextSlide = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-  };
-
   return (
     <header id="header">
       <div className="intro">
