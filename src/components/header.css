@@ -10,12 +10,11 @@ header .intro-text {
 }
 
 .intro {
-  display: flex; /* Ensures proper alignment */
+  display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   padding: 0 5%;
-  /* background: url(../../public/img/intro-bg.jpg) center center no-repeat; */
   background-color: #e5e5e5;
   background-size: cover;
 }
@@ -25,6 +24,12 @@ header .intro-text {
   border: 4px solid black;
   border-radius: 10%;
   padding: 10%;
+  background: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Added a semi-transparent background for better contrast */
 }
 
 /* Headings Styling */
@@ -37,10 +42,12 @@ header .intro-text {
   margin-top: 0;
   margin-bottom: 10px;
 }
+
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
 }
+
 .intro p {
   color: #fff;
   font-size: 22px;
@@ -52,6 +59,7 @@ header .intro-text {
 
 .heading-3 {
   color: #054349 !important;
+  font-size: 20px;
 }
 
 /* Slider Container */
@@ -59,7 +67,6 @@ header .intro-text {
   position: relative;
   width: 100%;
   max-width: 600px;
-  height: auto;
   margin: auto;
   overflow: hidden;
   border-radius: 10px;
@@ -71,8 +78,8 @@ header .intro-text {
   width: 100%;
   border: 5px black solid;
   border-radius: 10%;
-  height: auto; /* Maintains aspect ratio */
-  object-fit: contain; /* Ensures no cropping of the image */
+  height: auto;
+  object-fit: contain;
   transition: transform 0.5s ease-in-out;
 }
 
@@ -106,48 +113,60 @@ header .intro-text {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .intro-text {
-    text-align: center;
-    margin: -200px 0 0 0;
+  header .intro-text {
+    padding-top: 200px !important;
+    padding-bottom: 100px !important;
+  }
+
+  .intro {
+    padding: 0 2%;
+    flex-direction: column;
+  }
+
+  .intro h1 {
+    font-size: 48px; /* Adjusted font size for medium screens */
+  }
+
+  .intro p {
+    font-size: 18px; /* Adjusted text size */
   }
 
   .slider-container {
-    width: 100%; /* Full-width container on smaller screens */
-    max-width: 100%; /* Prevent overflow */
-    height: auto; /* Maintain aspect ratio */
-  }
-
-  .heading-1 {
-    font-size: 24px;
-  }
-
-  .heading-3 {
-    font-size: 18px;
+    width: 90%; /* Reduce width for better fit */
   }
 }
 
 @media (max-width: 480px) {
+  header .intro-text {
+    padding-top: 150px !important;
+    padding-bottom: 50px !important;
+  }
+
+  .intro h1 {
+    font-size: 36px; /* Further reduction for small screens */
+  }
+
+  .intro p {
+    font-size: 16px;
+  }
+
   .slider-container {
-    width: 100%; /* Ensures no horizontal scroll */
+    width: 100%;
     max-width: 100%;
     height: auto;
   }
 
-  .heading-1 {
-    font-size: 20px;
-  }
-
-  .heading-3 {
-    font-size: 16px;
+  .header-content {
+    padding: 5%; /* Reduce padding for small screens */
   }
 }
 
 /* Body Scrollbar Fix */
 body {
-  overflow-x: hidden; /* Disable horizontal scrolling */
+  overflow-x: hidden;
 }
 
-/* Additional Styles for Aesthetics */
+/* Button Styling */
 a.btn {
   background-color: #5ca9fb;
   color: white;
@@ -156,4 +175,8 @@ a.btn {
   border-radius: 5px;
   text-decoration: none;
   transition: background-color 0.3s ease;
+}
+
+a.btn:hover {
+  background-color: #3b87e0;
 }
