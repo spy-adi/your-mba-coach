@@ -1,0 +1,197 @@
+{
+  "Header": {
+    "title": "The MBA Coach Hemant Tulsan",
+    "paragraph": "Elite Supplier Network in the US to kick start your D2C Business"
+  },
+  "About": {
+    "us": "Introducing the 'US D2C Starter Pack' – your ultimate resource for embarking on a successful journey in the world of Direct-to-Consumer (D2C) business. This comprehensive list of 300+ Manufacturers and Suppliers in North America opens the door to an extensive array of high-quality products, including cosmetics, packaged foods, and much more, all sourced from trusted suppliers who serve some of the world's best brands like Hugo boss, Nordstrom, North Face, Bvlgari, Porsche Design, Guess, Walmart, Gucci, Jcrew, Marriott etc.",
+    "vaev": "At Vaev we want to empower aspiring entrepreneurs and established businesses alike by providing access to the very same suppliers trusted by renowned global brands. Whether you're looking to launch your own D2C venture or expand your product offerings, this invaluable resource is your key to success.",
+    "whyBuild": "We have been working on a few tools for simplifying D2C. Our ultimate aim is to help people launch and run their D2C seamlessly. In the meantime, we thought we could put our research out in the open for aspiring entrepreneurs who are struggling to find the right suppliers for getting started.",
+    "forWhom": [
+      "Aspiring Entrepreneurs: If you're looking to start your own direct-to-consumer business, this resource provides you with a valuable starting point to connect with reputable suppliers and manufacturers.",
+      "Existing D2C Brands: Established D2C brands seeking to diversify their product offerings or explore new suppliers can benefit from this list to expand their reach and offerings.",
+      "Small Businesses: Small businesses looking to streamline their supply chain and source high-quality products can find value in this resource.",
+      "Anyone Interested in D2C: Whether you're a marketing professional, consultant, or simply curious about the world of direct-to-consumer business, this list offers insights into the industry."
+    ],
+    "whatCanBeDone": [
+      "Access a Curated List of Suppliers and discover trusted Suppliers",
+      "Explore New Product Opportunities and Launch your own D2C Business",
+      "Expand your Business while saving time and effort",
+      "Stay ahead of the competition"
+    ],
+    "why": [
+      "To find the right us supplier for starting your own brand",
+      "To expand your existing product line",
+      "To find service companies to either get you started or help you grow your existing business"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": {
+    "content": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Personalized attention along with knowledge transfer sessions for confidence boost"
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      }
+    ],
+    "image": {
+      "image1": "img/services/GDPI_1",
+      "image2": "img/services/GDPI_2"
+    }
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "ABC ",
+    "phone": "+91 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-user",
+      "title": "Personalized Guidance",
+      "text": "Receive one-on-one attention and engaging knowledge sessions designed to boost your confidence and ensure success."
+    },
+    {
+      "icon": "fa fa-pencil-square-o",
+      "title": "Structured Writing Framework",
+      "text": "Master the art of writing with a comprehensive Written Ability Test framework and expertly crafted sample SOPs."
+    },
+    {
+      "icon": "fa fa-search",
+      "title": "Insider Interview Insights",
+      "text": "Gain valuable insights into what interviewers look for, helping you stand out and leave a lasting impression."
+    },
+    {
+      "icon": "fa fa-comments",
+      "title": "GD & Mock PI Practice",
+      "text": "Participate in 5 Group Discussions and unlimited Mock Personal Interviews, with tailored sessions for specific colleges."
+    }
+  ]
+}

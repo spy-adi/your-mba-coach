@@ -1,0 +1,51 @@
+.feature-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+  margin-bottom: 5%;
+  aspect-ratio: 5/9; /* Maintains a consistent aspect ratio */
+  background-size: contain; /* Ensures the entire image fits within the container */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating the image */
+  background-image: url("../../public/img/features.jpg"); /* Path to your image */
+}
+
+#features {
+  background: #e5e5e5;
+  padding: 100px 0;
+}
+
+#features i.fa {
+  font-size: 75px;
+  margin-bottom: 20px;
+  transition: all 0.5s;
+  color: #fff;
+  width: 135px;
+  height: 135px;
+  padding: 30px 0;
+  border-radius: 50%;
+  background: linear-gradient(to right, #6372ff 0%, #18284a 100%);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+
+.features-heading {
+  color: #18284a;
+}
+
+.features-description {
+  font-size: 25px;
+  color: #000000;
+}
+
+.features-content {
+  margin: 5vw;
+  display: flex;
+  align-items: center;
+  font-family: Anton;
+}
