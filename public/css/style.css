@@ -219,6 +219,17 @@ hr {
 /* Team Section */
 
 /* Contact Section */
+.mailto-link {
+  color: white;
+  text-decoration: none;
+}
+
+.mailto-link:hover,
+.mailto-link:focus {
+  text-decoration: underline;
+  color: white;
+}
+
 #contact {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
