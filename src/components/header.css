@@ -1,6 +1,6 @@
 /* Intro Section Styling */
 header .intro-text {
-  padding-top: 350px !important;
+  padding-top: 15rem !important;
   padding-bottom: 200px !important;
   text-align: center;
 }
@@ -15,7 +15,7 @@ header .intro-text {
   align-items: center;
   width: 100%;
   padding: 0 5%;
-  background-color: #e5e5e5;
+  background-color: #e6e6e6;
   background-size: cover;
 }
 
@@ -28,7 +28,7 @@ header .intro-text {
     0,
     0,
     0,
-    0.5
+    0.256
   ); /* Added a semi-transparent background for better contrast */
 }
 

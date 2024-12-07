@@ -9,8 +9,8 @@ export const Features = (props) => {
           <h2>Features</h2>
         </div>
         <div className="row">
-          <div className="col-md-5">
-            <div className="feature-image-container">
+          <div className="col-md-5 feature-image-container">
+            <div className="">
               {/* <img
                 src={"img/features.jpg"}
                 alt="Slide"

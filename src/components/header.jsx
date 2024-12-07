@@ -44,6 +44,16 @@ export const Header = (props) => {
                 <h2 className="heading-1">Master MBA InterviewS</h2>
                 <h3 className="heading-2">with</h3>
                 <h1 className="heading-3">Hemant Tulsan</h1>
+                <p>
+                  MBA, IIM Kozhikode’24
+                  <br />
+                  Converted IIM K, S, CAP, GLIM. Waitlisted FMS, IIM L, MDI.
+                  <br />
+                  (Did not fill any other forms)
+                  <br />
+                  81%,84.33%,72.6% [ B.Com (H)], St. Xavier's College,
+                  Kolkata. EWS category
+                </p>
                 <h3>
                   Land your dream B-school with a complete guide to crack
                   GD-PI-WAT for MBA Admissions

@@ -7,6 +7,9 @@ export const Testimonials = (props) => {
     "img/testimonials/testimonial_2.jpg",
     "img/testimonials/testimonial_3.jpg",
     "img/testimonials/testimonial_4.jpg",
+    "img/testimonials/testimonial_5.jpg",
+    "img/testimonials/testimonial_6.jpg",
+    "img/testimonials/testimonial_7.jpg",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -33,7 +36,7 @@ export const Testimonials = (props) => {
     <div id="testimonials">
       <div className="container">
         <div className="section-title text-center">
-          <h2>What our clients say</h2>
+          <h2>What our Mentees say</h2>
         </div>
 
         {/* Image Slider */}

@@ -85,20 +85,4 @@
   }
 }
 
-@media (max-width: 480px) {
-  #features i.fa {
-    font-size: 40px;
-    width: 80px;
-    height: 80px;
-    padding: 15px 0;
-  }
-
-  .features-description {
-    font-size: 16px;
-  }
-
-  .feature-image-container {
-    margin-bottom: 2%;
-    aspect-ratio: 3/4; /* Further adjustment for very small screens */
-  }
-}
+/* @media (max-width: 480px) { */
