@@ -3,7 +3,7 @@ import "./header.css";
 
 export const Header = (props) => {
   const images = [
-    "img/header/header_1.jpg",
+    // "img/header/header_1.jpg",
     "img/header/header_2.jpg",
     "img/header/header_3.jpg",
   ];
@@ -44,7 +44,7 @@ export const Header = (props) => {
                 <h2 className="heading-1">Master MBA InterviewS</h2>
                 <h3 className="heading-2">with</h3>
                 <h1 className="heading-3">Hemant Tulsan</h1>
-                <p>
+                <h3>
                   MBA, IIM Kozhikode’24
                   <br />
                   Converted IIM K, S, CAP, GLIM. Waitlisted FMS, IIM L, MDI.
@@ -53,14 +53,14 @@ export const Header = (props) => {
                   <br />
                   81%,84.33%,72.6% [ B.Com (H)], St. Xavier's College,
                   Kolkata. EWS category
-                </p>
+                </h3>
                 <h3>
                   Land your dream B-school with a complete guide to crack
                   GD-PI-WAT for MBA Admissions
                 </h3>
-                <a href="#about" className="btn btn-custom btn-lg page-scroll">
+                {/* <a href="#about" className="btn btn-custom btn-lg page-scroll">
                   Learn More
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

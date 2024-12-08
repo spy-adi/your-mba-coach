@@ -4,7 +4,7 @@ import "./navigation.css";
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
+      <div className="">
         <div className="navbar-header">
           <button
             type="button"
@@ -34,12 +34,12 @@ export const Navigation = (props) => {
               <a href="#about" className="page-scroll">
                 About
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#team" className="page-scroll">
                 Team
               </a>
-            </li> */}
+            </li>
             <li>
               <a href="#features" className="page-scroll">
                 Features

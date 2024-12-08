@@ -145,23 +145,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Hemant",
+      "job": "Hemant is a second-year MBA student at IIM Kozhikode, focusing in the Marketing and Strategy domain. He holds a degree in B.Com from St. Xavier's College, Kolkata and is a fresher with 2 years gap. At IIM Kozhikode, Hemant was an elected junior member of Students' Placements Committee but left to pursue his other passion. He has also been a part of case competitions and was National finalist in the Amazon Ace case competition. He also interned at Pidilite in the Marketing domain for Fevicol division. In his free time he is passionate about content creation and watching films/series."
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/09.jpg",
+      "name": "Shubhangee",
+      "job": "Shubhangee is a second-year MBA student at IIM Kozhikode, focusing in the Operations and Strategy domain. She holds a degree in Mechanical Engineering from NIT Durgapur and has gained valuable professional experience working  at Tata Steel. At IIM Kozhikode, Shubhangee is an elected senior member of Omega, the institute's operations interest group. She has also been a part of case competitions and was National finalist in the Samsung Edge case competition. In her free time she is passionate about singing and travelling"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Sheetal",
+      "job": "Sheetal is a current second year student at Indian Institute of Foreign Trade, Delhi. She is currently majoring in Marketing and Strategy there. Having done her Business Economics from Gargi College, Delhi University, she has worked for startups like PharmEasy and Physics wallah in the HR domain. At IIFT, she is the Senior Cell Coordinator of Women in Development Cell, has been involved in various organising committees and actively taken part in case competitions. She is the National Finalist for Reliance -TUP and GS Women Possibilities Summit. Feel free to cut any part if it seems a little too extra."
     }
   ],
   "Contact": {
@@ -174,14 +169,14 @@
   },
   "Features": [
     {
-      "icon": "fa fa-user",
-      "title": "Personalized Guidance",
-      "text": "Receive one-on-one attention and engaging knowledge sessions designed to boost your confidence and ensure success."
-    },
-    {
       "icon": "fa fa-pencil-square-o",
       "title": "Structured Writing Framework",
       "text": "Master the art of writing with a comprehensive Written Ability Test framework and expertly crafted sample SOPs."
+    },
+    {
+      "icon": "fa fa-user",
+      "title": "Personalized Guidance",
+      "text": "Receive one-on-one attention and engaging knowledge sessions designed to boost your confidence and ensure success."
     },
     {
       "icon": "fa fa-search",
