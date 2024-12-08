@@ -20,7 +20,7 @@ const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
   const [isOpen, setIsOpen] = useState(true);
 
-  const handleClose = () => {
+  const handleOverlayClick = (e) => {
     setIsOpen(false);
   };
 
@@ -31,7 +31,7 @@ const App = () => {
   return (
     <div>
       {isOpen && (
-        <div className="overlay">
+        <div className="overlay" onClick={handleOverlayClick}>
           <div className="overlay-content">
             <img
               src="img/features.jpg"
@@ -39,9 +39,6 @@ const App = () => {
               className="overlay-image"
             />
           </div>
-          <button className="close-btn" onClick={handleClose}>
-            &times;
-          </button>
         </div>
       )}
       <Navigation />
