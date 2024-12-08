@@ -13,11 +13,14 @@
                
 
 }
+h2::after {
+  content: " 👋"; /* Adds a waving hand emoji after the heading text */
+}
 
 .btn-toggle {
-  background: none;
-  border: none;
-  color: black;
+  background: white;
+  border: black;
+  color: rgb(38, 101, 160);
   cursor: pointer;
   text-decoration: none;
 }
@@ -41,7 +44,7 @@
 
   border-radius: 10%;
   border: 8px double black;
-  padding:5px;
+  padding:25px;
 }
 #team .thumbnail .caption {
   padding: 10px 0 0;
