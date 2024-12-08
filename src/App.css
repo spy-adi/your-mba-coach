@@ -33,3 +33,74 @@
     width: 110%;
   }
 }
+/* Full-screen overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; /* Covers the full viewport height */
+  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+  z-index: 999; /* Ensure it's above other elements */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Overlay content */
+.overlay-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%; /* Allow some margin on smaller screens */
+  max-width: 800px; /* Limit the maximum width of the content */
+}
+
+/* Responsive image styling */
+.overlay-image {
+  width: 100%; /* Scale image to fit container */
+  height: auto; /* Maintain aspect ratio */
+  max-height: 40%; /* Ensure it doesn't overflow vertically */
+  object-fit: contain; /* Maintain aspect ratio and fit within container */
+  border-radius: 10px; /* Optional: Adds rounded corners */
+  margin-top: 50px;
+}
+
+/* Close button */
+.close-btn {
+  position: fixed;
+  top: 70px; /* Adjust to place below the navbar */
+  right: 20px;
+  font-size: 5rem;
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1001;
+  transition: transform 0.2s ease;
+}
+
+.close-btn:hover {
+  transform: scale(1.2);
+}
+
+/* Ensure the overlay covers all screen heights in mobile browsers */
+@supports (-webkit-touch-callout: none) {
+  .overlay {
+    height: -webkit-fill-available; /* Fix for mobile browsers */
+  }
+}
+
+/* Adjust for responsiveness */
+@media (max-width: 768px) {
+  .overlay-content {
+    max-width: 95%; /* Allow more width for smaller screens */
+  }
+
+  .close-btn {
+    font-size: 3rem;
+    top: 50px;
+    right: 15px;
+  }
+}

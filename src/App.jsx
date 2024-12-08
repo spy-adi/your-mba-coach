@@ -18,12 +18,32 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
+  const [isOpen, setIsOpen] = useState(true);
+
+  const handleClose = () => {
+    setIsOpen(false);
+  };
+
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
 
   return (
     <div>
+      {isOpen && (
+        <div className="overlay">
+          <div className="overlay-content">
+            <img
+              src="img/features.jpg"
+              alt="Poster"
+              className="overlay-image"
+            />
+          </div>
+          <button className="close-btn" onClick={handleClose}>
+            &times;
+          </button>
+        </div>
+      )}
       <Navigation />
       <Header data={landingPageData.Header} />
       {/* <About data={landingPageData.About} /> */}
