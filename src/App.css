@@ -1,8 +1,15 @@
 .btn-enroll-now {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  animation: pulse 1.5s infinite;
+  bottom: 40px;
+  right: 50px;
+  animation: pulse 1.75s infinite;
+  background-attachment: fixed;
+  background-color:black;
+  border: black;
+  border-radius: 10px;
+  size: 200px;
+  border-color: black;
+
 }
 
 @keyframes pulse {
@@ -10,7 +17,7 @@
     transform: scale(1);
   }
   50% {
-    transform: scale(1.2);
+    transform: scale(1.5);
   }
   100% {
     transform: scale(1);
