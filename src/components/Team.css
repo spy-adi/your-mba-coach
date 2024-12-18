@@ -13,6 +13,17 @@
                
 
 }
+#team h5 {
+  
+  color: black;
+  
+  font-size: 14;
+  margin: 0px 0px 10px;
+  height: 50px;
+  
+               
+
+}
 h2::after {
   content: " 👋"; /* Adds a waving hand emoji after the heading text */
 }
@@ -47,8 +58,9 @@ h2::after {
   padding:25px;
 }
 #team .thumbnail .caption {
-  padding: 10px 0 0;
-  color: purple;
+  padding: 20px 2px 0;
+  color: black;
+  overflow: hidden;
 }
 
 #team h2 {

@@ -146,19 +146,39 @@
     {
       "img": "img/team/01.jpg",
       "name": "Hemant",
+      "converts":"IIM K,S,CAP, GLIM ",
       "job": "Hemant is a second-year MBA student at IIM Kozhikode, focusing in the Marketing and Strategy domain. He holds a degree in B.Com from St. Xavier's College, Kolkata and is a fresher with 2 years gap. At IIM Kozhikode, Hemant was an elected junior member of Students' Placements Committee but left to pursue his other passion. He has also been a part of case competitions and was National finalist in the Amazon Ace case competition. He also interned at Pidilite in the Marketing domain for Fevicol division. In his free time he is passionate about content creation and watching films/series."
     },
     {
       "img": "img/team/09.jpg",
       "name": "Shubhangee",
+      "converts":"IIM Kozhikode, IIM Indore, Cap all, Spjain, NITIE, MDI ",
       "job": "Shubhangee is a second-year MBA student at IIM Kozhikode, focusing in the Operations and Strategy domain. She holds a degree in Mechanical Engineering from NIT Durgapur and has gained valuable professional experience working  at Tata Steel. At IIM Kozhikode, Shubhangee is an elected senior member of Omega, the institute's operations interest group. She has also been a part of case competitions and was National finalist in the Samsung Edge case competition. In her free time she is passionate about singing and travelling"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Sheetal",
+      "converts":"IIFT Delhi \n",
       "job": "Sheetal is a current second year student at Indian Institute of Foreign Trade, Delhi. She is currently majoring in Marketing and Strategy there. Having done her Business Economics from Gargi College, Delhi University, she has worked for startups like PharmEasy and Physics wallah in the HR domain. At IIFT, she is the Senior Cell Coordinator of Women in Development Cell, has been involved in various organising committees and actively taken part in case competitions. She is the National Finalist for Reliance -TUP and GS Women Possibilities Summit."
-    }
-  ],
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Nirupam",
+      "converts":"IIMK, All new and baby IIMs, XIMB",
+      "job": "Nirupam is a second-year MBA student at IIM Kozhikode. With a solid foundation in technology, he earned his undergraduate degree in BCA from VIT Vellore and gained valuable industry experience during his 1.5 years at Infosys.He did his summer internship at Kotak Mahindra Bank. Beyond academics and professional growth, Nirupam has actively contributed to social causes by being a part of Sociology Service Group of IIMK.Passionate about personal growth and problem-solving, he aspires to excel as a Product Manager, bringing together technical expertise and business acumen. His hobbies include reading about Indian history, playing video games and chess, and exploring innovative ideas that drive progress"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Aanya",
+      "converts":"IIFT Delhi",
+      "job": "Aanya is a second-year MBA student at NMIMS Mumbai, specializing in Marketing and Product Management. With a strong foundation in technology, she earned her Computer Science degree from VIT Chennai and gained valuable industry experience as a software engineer at UBS Business Solutions. Her journey is marked by hands-on exposure to live projects, case competitions where she secured notable achievements, and a summer internship in the FMCG division at Pidilite, working on strategic initiatives for focus products.Passionate about learning and staying ahead, she constantly updates herself with the latest trends, from technological innovations to market dynamics. In her free time, she enjoys cooking, watching thriller movies, long walks, cleaning stuff and quality family time."}
+      ,
+      {
+        "img": "img/team/07.jpg",
+        "name": "Anushka",
+        "converts":"IIFT Delhi, NMIMS Mumbai, SIBM Pune, GLIM Chennai, SCMHRD Pune",
+        "job":"A Computer Engineer from SIES Graduate School of Technology (Mumbai University) with 3 years of experience in supply chain management, Anushka brings a strong analytical and strategic perspective to the team. She interned at Axis Bank, specializing in strategy, and was a campus finalist in the prestigious Accenture B-School Strategy Challenge. Currently pursuing her MBA at IIFT Delhi, Anushka is passionate about solving complex business problems and driving impactful change."
+      }],
   "Contact": {
     "address": "ABC ",
     "phone": "+91 123 456 1234",

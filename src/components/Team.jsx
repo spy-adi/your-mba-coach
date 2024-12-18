@@ -36,9 +36,10 @@ export const Team = (props) => {
                       <img src={d.img} alt="........" className="team-img" />
                       <div className="caption">
                         <h4>{d.name}</h4>
+                        <h5>{d.converts}</h5>
                         <p>
-                          {limitText(d.job, 100, isExpanded)}
-                          {d.job.length > 100 && (
+                          {limitText(d.job, 70, isExpanded)}
+                          {d.job.length > 70 && (
                             <button
                               onClick={() => toggleExpand(i)}
                               className="btn-toggle"
