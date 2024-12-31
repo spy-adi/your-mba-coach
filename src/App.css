@@ -4,7 +4,23 @@
   right: 50px;
   animation: pulse 1.75s infinite;
   background-attachment: fixed;
-  background-color:black;
+  background-color:rgb(221, 153, 153);
+  color: black;
+  border: black;
+  border-radius: 10px;
+  size: 200px;
+  border-color: black;
+
+}
+
+.btn-haha-now {
+  position: fixed;
+  bottom: 100px;
+  right: 100px;
+  animation: pulse 1.75s infinite;
+  background-attachment: fixed;
+  background-color:rgb(221, 153, 153);
+  color: black;
   border: black;
   border-radius: 10px;
   size: 200px;

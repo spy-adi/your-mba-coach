@@ -50,6 +50,7 @@ const App = () => {
       {/* <Services data={landingPageData.Services} /> */}
       <Gallery data={landingPageData.Gallery} />
       <Contact data={landingPageData.Contact} />
+      <div>
       <a
         href="https://docs.google.com/forms/d/e/1FAIpQLSf0AeYmQtT3xlpKXcaLIqdHmtxlZ-8UYkMd6AY8zriuSvpOrg/viewform"
         target="_blank"
@@ -58,6 +59,17 @@ const App = () => {
       >
         Enroll Now
       </a>{" "}
+      </div>
+      <div>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSf0AeYmQtT3xlpKXcaLIqdHmtxlZ-8UYkMd6AY8zriuSvpOrg/viewform"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn btn-custom btn-lg btn-enroll-now"
+      >
+        Enroll Now
+      </a>{" "}
+      </div>
     </div>
   );
 };
