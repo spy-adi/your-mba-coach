@@ -38,10 +38,26 @@ const App = () => {
               alt="Poster"
               className="overlay-image"
             />
+            {/* Close button (cross) */}
+      <div className="close-button" onClick={handleOverlayClick}>
+        &#10006; 
+
+          </div>
           </div>
         </div>
       )}
       <Navigation />
+      
+      <div>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSf0AeYmQtT3xlpKXcaLIqdHmtxlZ-8UYkMd6AY8zriuSvpOrg/viewform"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn btn-custom btn-lg btn-enroll-now"
+      >
+        Enroll 
+      </a>{" "}
+      </div>
       <Header data={landingPageData.Header} />
       {/* <About data={landingPageData.About} /> */}
       <Team data={landingPageData.Team} />
@@ -60,6 +76,7 @@ const App = () => {
         Enroll Now
       </a>{" "}
       </div>
+    
      
       <div>
       {/* <a
