@@ -58,9 +58,10 @@ export const Header = (props) => {
                   Land your dream B-school with a complete guide to crack
                   GD-PI-WAT for MBA Admissions
                 </h3>
-                {/* <a href="#about" className="btn btn-custom btn-lg page-scroll">
-                  Learn More
-                </a> */}
+                <br></br>
+                <a href="https://youtu.be/2H4PVetN4aE" className="btn btn-custom btn-lg page-scroll btn-demo">
+                  Take Demo
+                </a> 
               </div>
             </div>
           </div>

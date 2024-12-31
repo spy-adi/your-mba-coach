@@ -16,7 +16,7 @@
 .btn-haha-now {
   position: fixed;
   bottom: 100px;
-  right: 100px;
+  right: 15px;
   animation: pulse 1.75s infinite;
   background-attachment: fixed;
   background-color:rgb(221, 153, 153);

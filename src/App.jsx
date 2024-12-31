@@ -60,15 +60,16 @@ const App = () => {
         Enroll Now
       </a>{" "}
       </div>
+     
       <div>
-      <a
+      {/* <a
         href="https://docs.google.com/forms/d/e/1FAIpQLSf0AeYmQtT3xlpKXcaLIqdHmtxlZ-8UYkMd6AY8zriuSvpOrg/viewform"
         target="_blank"
         rel="noopener noreferrer"
-        className="btn btn-custom btn-lg btn-enroll-now"
+        className="btn btn-custom btn-lg btn-haha-now"
       >
-        Enroll Now
-      </a>{" "}
+        haha Now
+      </a>{" "} */}
       </div>
     </div>
   );
