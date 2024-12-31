@@ -41,6 +41,8 @@ header .intro-text {
   border: 20px;
   border-radius: 50%;
   background-color: pink;
+  margin-bottom: -40px;
+  margin-top: -10px;
 }
 
 
