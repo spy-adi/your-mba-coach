@@ -1,8 +1,43 @@
 .btn-enroll-now {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  animation: pulse 1.5s infinite;
+  bottom: 40px;
+  right: 50px;
+  animation: pulse 1.75s infinite;
+  background-attachment: fixed;
+  background-color:rgb(221, 153, 153);
+  color: blue;
+  border: black;
+  border-radius: 10px;
+  size: 200px;
+  border-color: black;
+
+}
+
+.close-button{
+  font-size: 25px;
+  color:rgba(4, 4, 4, 0.694);
+  margin-top: -80px;
+  margin-right: 160px;
+  margin-left: -230px;
+  margin-bottom: 450px;
+
+
+  
+}
+
+.btn-haha-now {
+  position: fixed;
+  bottom: 100px;
+  right: 15px;
+  animation: pulse 1.75s infinite;
+  background-attachment: fixed;
+  background-color:rgb(221, 153, 153);
+  color: black;
+  border: black;
+  border-radius: 10px;
+  size: 200px;
+  border-color: black;
+
 }
 
 @keyframes pulse {
@@ -10,7 +45,7 @@
     transform: scale(1);
   }
   50% {
-    transform: scale(1.2);
+    transform: scale(1.5);
   }
   100% {
     transform: scale(1);
@@ -40,7 +75,7 @@
   left: 0;
   width: 100%;
   height: 100%; /* Covers the full viewport height */
-  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+  background-color: rgba(157, 153, 153, 0.8); /* Semi-transparent black background */
   z-index: 999; /* Ensure it's above other elements */
   display: flex;
   flex-direction: column;

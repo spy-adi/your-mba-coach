@@ -1,7 +1,8 @@
 /* Intro Section Styling */
 header .intro-text {
-  padding-top: 15rem !important;
-  padding-bottom: 200px !important;
+  padding-top: 10rem !important;
+  padding-bottom: 100px !important;
+  padding-left: 00px;
   text-align: center;
 }
 
@@ -32,6 +33,18 @@ header .intro-text {
     0.256
   ); /* Added a semi-transparent background for better contrast */
 }
+
+.btn-demo {
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #054349;
+  border: 20px;
+  border-radius: 50%;
+  background-color: pink;
+  margin-bottom: -40px;
+  margin-top: -10px;
+}
+
 
 /* Headings Styling */
 .intro h1 {
@@ -65,21 +78,24 @@ header .intro-text {
 
 /* Slider Container */
 .slider-container {
-  position: relative;
-  width: 100%;
-  max-width: 600px;
-  margin: auto;
-  overflow: hidden;
+  padding-top: -5rem;
+  padding-bottom: 10rem;
+  height:800px;
+  
+  
+  max-width: 480px;
+  
   border-radius: 10px;
 }
 
 /* Slider Image */
 .slider-image {
   display: block;
+  margin:-50px 100px 150px 100px;
   width: 100%;
   border: 5px black solid;
   border-radius: 10%;
-  height: auto;
+  
   object-fit: contain;
   transition: transform 0.5s ease-in-out;
 }

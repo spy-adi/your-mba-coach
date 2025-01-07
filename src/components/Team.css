@@ -1,42 +1,73 @@
 #team {
-  padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: rgba(255, 255, 255, 0.75);
+  padding: 10px 0;
+  background: linear-gradient(to right, #a3cae1 0%, #4b95e0 100%);
+  color: rgba(36, 164, 94, 0.75);
 }
 #team h4 {
-  margin: 5px 0;
-  color: #fff;
+  margin: 10px 0;
+  color: red;
+  display: inline-block;
+  text-decoration: underline;
+  font-size: 25px;
+  padding: 2px;
+               
+
+}
+#team h5 {
+  
+  color: black;
+  
+  font-size: 14;
+  margin: 0px 0px 10px;
+  height: 50px;
+  
+               
+
+}
+h2::after {
+  content: " 👋"; /* Adds a waving hand emoji after the heading text */
 }
 
 .btn-toggle {
-  background: none;
-  border: none;
-  color: blue;
+  background: white;
+  border: black;
+  color: rgb(38, 101, 160);
   cursor: pointer;
   text-decoration: none;
 }
 #team p {
-  color: #fff;
+  color: black;
+  font-family: 'Comic Neue';
+  font-weight: bold;
+  font-size: 18;
+  
 }
 #team .team-img {
-  width: 240px;
-  height: 240px;
-  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 3px solid black;
+  padding: 0px;
+
 }
 #team .thumbnail {
-  background: transparent;
-  border: 0;
+  background: linear-gradient(to right, #f4f4f4 0%, #fafafb 100%);
+
+  border-radius: 10%;
+  border: 8px double black;
+  padding:25px;
 }
 #team .thumbnail .caption {
-  padding: 10px 0 0;
-  color: #888;
+  padding: 20px 2px 0;
+  color: black;
+  overflow: hidden;
 }
 
 #team h2 {
-  color: #fff;
+  color: black;
   margin-top: 10px;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
+  margin-bottom: 0px;
+  padding-bottom: 8px;
 }
 /* Responsive Media Queries for Team Section */
 
@@ -114,8 +145,8 @@
   }
 
   #team .team-img {
-    width: 220px;
-    height: 220px;
+    width: 20px;
+    height: 20px;
   }
 
   #team h2 {
@@ -138,8 +169,8 @@
   }
 
   #team .team-img {
-    width: 230px;
-    height: 230px;
+    width: 20px;
+    height: 20px;
   }
 }
 

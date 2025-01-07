@@ -146,19 +146,57 @@
     {
       "img": "img/team/01.jpg",
       "name": "Hemant",
+      "converts":"IIM K,S,CAP, GLIM ",
       "job": "Hemant is a second-year MBA student at IIM Kozhikode, focusing in the Marketing and Strategy domain. He holds a degree in B.Com from St. Xavier's College, Kolkata and is a fresher with 2 years gap. At IIM Kozhikode, Hemant was an elected junior member of Students' Placements Committee but left to pursue his other passion. He has also been a part of case competitions and was National finalist in the Amazon Ace case competition. He also interned at Pidilite in the Marketing domain for Fevicol division. In his free time he is passionate about content creation and watching films/series."
     },
     {
       "img": "img/team/09.jpg",
       "name": "Shubhangee",
+      "converts":"IIM Kozhikode, IIM Indore, Cap all, Spjain, NITIE, MDI ",
       "job": "Shubhangee is a second-year MBA student at IIM Kozhikode, focusing in the Operations and Strategy domain. She holds a degree in Mechanical Engineering from NIT Durgapur and has gained valuable professional experience working  at Tata Steel. At IIM Kozhikode, Shubhangee is an elected senior member of Omega, the institute's operations interest group. She has also been a part of case competitions and was National finalist in the Samsung Edge case competition. In her free time she is passionate about singing and travelling"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Sheetal",
-      "job": "Sheetal is a current second year student at Indian Institute of Foreign Trade, Delhi. She is currently majoring in Marketing and Strategy there. Having done her Business Economics from Gargi College, Delhi University, she has worked for startups like PharmEasy and Physics wallah in the HR domain. At IIFT, she is the Senior Cell Coordinator of Women in Development Cell, has been involved in various organising committees and actively taken part in case competitions. She is the National Finalist for Reliance -TUP and GS Women Possibilities Summit. Feel free to cut any part if it seems a little too extra."
-    }
-  ],
+      "converts":"IIFT Delhi \n",
+      "job": "Sheetal is a current second year student at Indian Institute of Foreign Trade, Delhi. She is currently majoring in Marketing and Strategy there. Having done her Business Economics from Gargi College, Delhi University, she has worked for startups like PharmEasy and Physics wallah in the HR domain. At IIFT, she is the Senior Cell Coordinator of Women in Development Cell, has been involved in various organising committees and actively taken part in case competitions. She is the National Finalist for Reliance -TUP and GS Women Possibilities Summit."
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Nirupam",
+      "converts":"IIMK, All new and baby IIMs, XIMB",
+      "job": "Nirupam is a second-year MBA student at IIM Kozhikode. With a solid foundation in technology, he earned his undergraduate degree in BCA from VIT Vellore and gained valuable industry experience during his 1.5 years at Infosys.He did his summer internship at Kotak Mahindra Bank. Beyond academics and professional growth, Nirupam has actively contributed to social causes by being a part of Sociology Service Group of IIMK.Passionate about personal growth and problem-solving, he aspires to excel as a Product Manager, bringing together technical expertise and business acumen. His hobbies include reading about Indian history, playing video games and chess, and exploring innovative ideas that drive progress"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Aanya",
+      "converts":"NMIMS Mumbai",
+      "job": "Aanya is a second-year MBA student at NMIMS Mumbai, specializing in Marketing and Product Management. With a strong foundation in technology, she earned her Computer Science degree from VIT Chennai and gained valuable industry experience as a software engineer at UBS Business Solutions. Her journey is marked by hands-on exposure to live projects, case competitions where she secured notable achievements, and a summer internship in the FMCG division at Pidilite, working on strategic initiatives for focus products.Passionate about learning and staying ahead, she constantly updates herself with the latest trends, from technological innovations to market dynamics. In her free time, she enjoys cooking, watching thriller movies, long walks, cleaning stuff and quality family time."}
+      ,
+      {
+        "img": "img/team/07.jpg",
+        "name": "Anushka",
+        "converts":"IIFT Delhi, NMIMS Mumbai, SIBM Pune, GLIM Chennai, SCMHRD Pune",
+        "job":"A Computer Engineer from SIES Graduate School of Technology (Mumbai University) with 3 years of experience in supply chain management, Anushka brings a strong analytical and strategic perspective to the team. She interned at Axis Bank, specializing in strategy, and was a campus finalist in the prestigious Accenture B-School Strategy Challenge. Currently pursuing her MBA at IIFT Delhi, Anushka is passionate about solving complex business problems and driving impactful change."
+      },
+      {
+        "img": "img/team/11.jpeg",
+        "name": "Avi",
+        "converts":"IIM Kozhikode, IIM Indore, CAP",
+        "job":"Avi is a second-year MBA student at the Indian Institute of Management Kozhikode, specializing in Marketing and Strategy. He holds a B.Sc. (Hons) degree in Zoology from Hindu College, University of Delhi, and has demonstrated academic excellence throughout his journey.His journey also includes dedicated preparation for the NEET examination, reflecting his perseverance and commitment to excellence, which accounts for a 1-year gap between his education career. Avi has one year of pre-MBA experience working at his family business, where he gained hands-on exposure to operations and marketing. Additionally, he interned at Naukri.com as a Marketing Intern, contributing to impactful projects in social media marketing and user engagement strategies.Beyond academics and work, Avi has excelled in national-level case competitions. He is also a sports enthusiast, having secured the runner-up position in Table Tennis at Sangram, the Inter-IIM Sports Competition. In his free time, Avi enjoys watching anime and loves to go for a swim."
+      },
+      {
+        "img": "img/team/12.jpeg",
+        "name": "Mayur B",
+        "converts":"IIM Kozhikode, Indore, CAP, NMIMS Mumbai",
+        "job":"Mayur B is a second-year MBA student at the Indian Institute of Management Kozhikode, specializing in Finance. A semi-qualified Chartered Accountant, Mayur has a strong foundation in finance, with four years of experience as an auditor. Prior to his MBA, he worked as a derivatives trader, showcasing his analytical skills and strategic mindset in high-pressure environments. Fluent in five languages, Mayur is known for his friendly demeanour and exceptional communication skills. His ability to play the devil’s advocate makes him a valuable asset in discussions, bringing unique perspectives to the table. Outside of academics and finance, Mayur has a passion for music and sports. He is an avid trekker, guitar player, and Intermediate swimmer. For Mayur, finance forms 70% of his world, with Spirituality making up the remaining 30%. His well-rounded personality and diverse interests make him an engaging individual, both professionally and personally."
+      },
+      {
+        "img": "img/team/10.jpg",
+        "name": "Vipul",
+        "converts":"IIM Kozhikode, SPJIMR, IITs, All CAP",
+        "job":"Vipul is a second-year MBA student at IIM Kozhikode, specializing in Strategy and Finance. He holds a Mechanical Engineering degree from NIT Surat and has previously worked as an AI/ML Engineering Professional at EXL Analytics, gaining hands-on experience in data-driven decision-making.His journey also includes dedicated preparation for the IAS examination, reflecting his perseverance and commitment to excellence, which accounts for a 3.5-year gap between his professional career and MBA pursuits.At IIM Kozhikode, Vipul serves as an elected Senior Member of the Sports Committee, overseeing the organization of inter- and intra-college sports tournaments. He has also excelled in case competitions, emerging as a National Finalist in the Accenture Strategy and TVS Credit Case Competitions.Beyond academics and leadership roles, Vipul is an avid reader with a keen interest in International Relations, Geopolitics, and Public Affairs. In his free time, he enjoys playing cricket."
+      }],
   "Contact": {
     "address": "ABC ",
     "phone": "+91 123 456 1234",

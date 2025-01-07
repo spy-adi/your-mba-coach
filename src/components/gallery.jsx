@@ -13,9 +13,9 @@ export const Gallery = (props) => {
             <div className="row">
               <div className="col-md-6 gallery_video">
                 <iframe
-                  width="100%"
-                  height="315"
-                  src="https://www.youtube.com/embed/DkFsq8pjqfg"
+                  width="596px"
+                  height="390"
+                  src="https://www.youtube.com/embed/3Aw_ODN5oMM?si=4REKzjFdvbp4z0jL"
                   title="GDPI 1"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
@@ -23,8 +23,8 @@ export const Gallery = (props) => {
               </div>
               <div className="col-md-6 gallery_video">
                 <iframe
-                  width="100%"
-                  height="315"
+                  width="596"
+                  height="390"
                   src="https://www.youtube.com/embed/XrWur9AUXJo"
                   title="GDPI 2"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

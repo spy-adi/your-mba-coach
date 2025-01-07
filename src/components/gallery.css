@@ -1,3 +1,19 @@
 .gallery_video {
-  padding: 40px;
+  border:8px double black;
+  padding: 10px;
+  
+  background-color: rgb(245, 241, 238);
+  
+  
+}
+
+.portfolio-items{
+  margin-top:-10px;
+  margin-bottom: -40px;
+  
+}
+
+.row{
+  margin-left:-50px;
+  margin-right:-60px
 }
